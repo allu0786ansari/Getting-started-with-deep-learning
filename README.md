@@ -1,2 +1,2 @@
 # Getting-started-with-deep-learning
-This repo contains the jupyterlab notebook used during the course deeplearning provided by nvidia
+This repo contains the jupyterlab notebook used for learning deep learning from scratch
